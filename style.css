@@ -263,6 +263,13 @@ ul {
     .main-nav ul.main-menu.show {
         transform: translateX(-20px);
     }
+    
+    .main-nav ul.main-menu li {
+    font-size: 16px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+
+   }
     .main-nav ul.main-menu li:last-child {
         border-bottom: 0;
     }
